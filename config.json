@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "intro-rest-fastapi",
+      "title": "Intro to REST — Simple GET & POST with FastAPI",
+      "description": "Intro to REST using FastAPI: GET and POST endpoints and JSON requests",
+      "path": "assignments/intro-rest-fastapi",
+      "dueDate": "2026-07-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }

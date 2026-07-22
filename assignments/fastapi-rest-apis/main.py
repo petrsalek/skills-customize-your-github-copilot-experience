@@ -35,3 +35,8 @@ def create_item(item: Item):
     _NEXT_ID += 1
     _DB.append(item)
     return item
+
+
+@app.get("/hello")
+def hello():
+    return {"message": "Hello, world!"}
